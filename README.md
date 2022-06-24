@@ -2,7 +2,9 @@
 Chat App built with django, channels and redis
 
 # Installation
-  Run: pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
+  ``` 
   If you have Redis 5 installed on your machine
   just run the Redis server 
   else run: docker run -p 6379:6379 -d redis:5
