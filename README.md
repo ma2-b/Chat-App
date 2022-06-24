@@ -19,4 +19,4 @@ Chat App built with django, channels and redis
  
 ## images 
 
-  <img src="/C:\Users\Pc\Desktop\Django Projects\chat_app/lobby.png" alt="Alt text" title="Optional title">
+  <img src="C:\Users\Pc\Desktop\Django Projects\chat_app/lobby.png" alt="Alt text" title="Optional title">
