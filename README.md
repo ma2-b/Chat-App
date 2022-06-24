@@ -17,7 +17,8 @@ Chat App built with django, channels and redis
   python manage.py runserver
  ``` 
  
-## images 
+## images
 
-  <img src="" alt="Alt text" title="Optional title">
-  ![My Image](C:\Users\Pc\Desktop\Django Projects\chat_app/lobby.png)
+  ![lobby](https://user-images.githubusercontent.com/85603527/175553647-89bdc75b-f5ae-4296-a1b7-f8c0edff8904.png)
+
+  
