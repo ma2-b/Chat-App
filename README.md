@@ -19,7 +19,7 @@ Chat App built with django, channels and redis
  
 ## images
 
-  <img src="![lobby](https://user-images.githubusercontent.com/85603527/175553647-89bdc75b-f5ae-4296-a1b7-f8c0edff8904.png)" alt="Alt text" title="Optional title">
+  ![lobby](https://user-images.githubusercontent.com/85603527/175553647-89bdc75b-f5ae-4296-a1b7-f8c0edff8904.png)
   
 
   
