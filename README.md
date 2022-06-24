@@ -13,7 +13,6 @@ Chat App built with django, channels and redis
   
   Note: you must have docker in your machine if you use this way 
   
-## Usage
  ```bash
   python manage.py runserver
  ``` 
