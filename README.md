@@ -10,4 +10,4 @@ Chat App built with django, channels and redis
   
   
   else run: docker run -p 6379:6379 -d redis:5
-  you must have docker in your machine if you use this way 
+  Note: you must have docker in your machine if you use this way 
